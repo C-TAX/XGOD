@@ -16,22 +16,22 @@
 <a href="https://github.com/zeeone-ofc/Haruka-Md"><img title="Owner" src="https://img.shields.io/badge/Recode-ZeeoneOfc-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/zeeone-ofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeone-ofc?color=red&style=flat-square"></a>
-<a href="https://github.com/zeeone-ofc/Haruka-Md/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/zeeone-ofc/Haruka-Md?color=blue&style=flat-square"></a>
-<a href="https://github.com/zeeone-ofc/Haruka-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/zeeone-ofc/Haruka-Md?color=red&style=flat-square"></a>
-<a href="https://github.com/zeeone-ofc/Haruka-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/zeeone-ofc/Haruka-Md?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/zeeone-ofc/Haruka-Md"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
-<a href="https://github.com/zeeone-ofc/Haruka-Md/"><img title="Size" src="https://img.shields.io/github/repo-size/zeeone-ofc/Haruka-Md?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzeeone-ofc%2FHaruka-Md&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/zeeone-ofc/Haruka-Md/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/C-TAX/followers"><img title="Followers" src="https://img.shields.io/github/followers/C-TAX?color=red&style=flat-square"></a>
+<a href="https://github.com/C-TAX/XGOD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/C-TAX/XGOD?color=blue&style=flat-square"></a>
+<a href="https://github.com/C-TAX/XGOD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/C-TAX/XGOD?color=red&style=flat-square"></a>
+<a href="https://github.com/C-TAX/XGOD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/C-TAX/XGOD?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/C-TAX/XGOD"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
+<a href="https://github.com/C-TAX/XGOD/"><img title="Size" src="https://img.shields.io/github/repo-size/C-TAX/XGOD?style=flat-square&color=green"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FC-TAX%2FXGOD&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/C-TAX/XGOD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 
 <p align="center">
-  <a href="https://github.com/zeeone-ofc/Haruka-Md#requirements">Requirements</a> •
-  <a href="https://github.com/zeeone-ofc/Haruka-Md#instalasi">Installation</a> •
-  <a href="https://github.com/zeeone-ofc/Haruka-Md#thanks-to">Thanks to</a> •
-  <a href="https://github.com/zeeone-ofc/Haruka-Md#Official-Group"> Official Group Bot</a> •
-  <a href="https://github.com/zeeone-ofc/Haruka-Md#donate">Donate</a>
+  <a href="https://github.com/C-TAX/XGOD#requirements">Requirements</a> •
+  <a href="https://github.com/C-TAX/XGOD#instalasi">Installation</a> •
+  <a href="https://github.com/C-TAX/XGOD#thanks-to">Thanks to</a> •
+  <a href="https://github.com/C-TAX/XGOD#Official-Group"> Official Group Bot</a> •
+  <a href="https://github.com/C-TAX/XGOD#donate">Donate</a>
 </p>
 </div>
 
@@ -40,34 +40,22 @@
 
 # Instalasi
 ## FOR REPLIT USER
-[![Run on Repl.it](https://repl.it/badge/github/zeeone-ofc/Haruka-Md)](https://repl.it/github/zeeone-ofc/Haruka-Md)
+[![Run on Repl.it](https://replit.com/badge/github/C-TAX/XGOD)](https://repl.it/github/C-TAX/XGOD)
 
-[`Click Here For Tutorial`](https://youtu.be/jom_scHK09c)<br>
+<br>
 
 ----------
-
-<p align="center">
-  <a href="https://youtu.be/jom_scHK09c"><img src="https://telegra.ph/file/eb8dbe898ed8f9c32f013.jpg" />
-</p>
 
 ## FOR RAILWAY USER 
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Fzeeone-ofc%2FAlphabot-Md)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FC-TAX%2FXGOD)
 
-[`Click Here For Tutorial`](https://youtu.be/BqRauxohbLg)<br>
+<br>
 
 ----------
 
-<p align="center">
-  <a href="https://youtu.be/BqRauxohbLg"><img src="https://telegra.ph/file/ba58c4ad1b43bc285f16b.jpg" />
-</p>
-
 ## For Termux
 - [Download script MediaFire](https://youtu.be/9zVZXG-yaMY)
-
-<p align="center">
-<a href="https://youtu.be/9zVZXG-yaMY"><img src="https://telegra.ph/file/dd8feaca22300196ad2e9.jpg" />
-</p>
 
 ## Edit Owner 
 
@@ -77,9 +65,9 @@
 ```ts
 {
     "ownerNumber": ["622150996855@s.whatsapp.net","622150996855@s.whatsapp.net"],
-    "ownerName": "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×",
-    "instagram" : "https://instagram.com/zeeoneofc",
-    "botName": "Haruka-Mdོ ",
+    "ownerName": "C-TAX",
+    "instagram" : "https://instagram.com",
+    "botName": "XGOD",
     "footer": "api.zeeoneofc.xyz",
     "sessionName": "session",
     "pathimg": "./media/Haruka.jpg",
@@ -101,14 +89,6 @@
 ```
 
 ## Donate
-- [Saweria](https://saweria.co/zeeoneofc)
-- [Dana](https://j.top4top.io/p_20532posd1.jpg)
-- [Ovo](https://h.top4top.io/p_2053vk0uw1.jpg)
-
-# Official Group
-- [Group 1](https://chat.whatsapp.com/EU890BcXjyBDkNaUT5WmYV)
-- [Group 2](https://chat.whatsapp.com/E8NExJwIbhBJYzssfqJNsE)
-- [Group 3](https://chat.whatsapp.com/KCSqHTky1apG7ApePsfiPy)
-- [Group 4](https://chat.whatsapp.com/KwmvHr7VMFj7r5ry9xmMsU)
-- [Group 5](https://chat.whatsapp.com/ELa7GhU0sP4EvXcVimQYtz)
+- [Saweria](https://saweria.co/CTAX)
+- [Dana](https://f.top4top.io/p_2567udvf10.jpg)
 
