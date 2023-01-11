@@ -5,7 +5,7 @@
 -----------------------------------------------------
 
 <p align="center">
-<img src="https://github.com/zeeone-ofc/Haruka-Md/blob/v1/media/Haruka.jpg" alt="ALPHA BOT" width="100"/>
+<img src="https://github.com/C-TAX/XGOD/blob/master/XGOD.jpg" alt="XGOD BOT" width="100"/>
 
 
 </p>
