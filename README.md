@@ -13,7 +13,7 @@
 <a href="#"><img title="XGOD BOT" src="https://img.shields.io/badge/XGOD BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/C-TAX/XGOD"><img title="Owner" src="https://img.shields.io/badge/Recode-C-TAX-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/C-TAX/XGOD"><img title="Owner" src="https://img.shields.io/badge/Recode-CTAX-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/C-TAX/followers"><img title="Followers" src="https://img.shields.io/github/followers/C-TAX?color=red&style=flat-square"></a>
